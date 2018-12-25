@@ -1,0 +1,30 @@
+C:\Users\cbel\Desktop\try\MidtermProject_r04525084\MidtermProject_r04525084\bin\Debug\MidtermProject_r04525084.exe.config
+C:\Users\cbel\Desktop\try\MidtermProject_r04525084\MidtermProject_r04525084\bin\Debug\MidtermProject_r04525084.exe
+C:\Users\cbel\Desktop\try\MidtermProject_r04525084\MidtermProject_r04525084\bin\Debug\MidtermProject_r04525084.pdb
+C:\Users\cbel\Desktop\try\MidtermProject_r04525084\MidtermProject_r04525084\bin\Debug\RandomVariateGeneratorLibrary.dll
+C:\Users\cbel\Desktop\try\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.MidtermProject.resources
+C:\Users\cbel\Desktop\try\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.Properties.Resources.resources
+C:\Users\cbel\Desktop\try\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.csproj.GenerateResource.Cache
+C:\Users\cbel\Desktop\try\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.exe
+C:\Users\cbel\Desktop\try\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.pdb
+C:\Users\cbel\Desktop\try\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.csprojResolveAssemblyReference.cache
+C:\Users\cbel\Desktop\try\0518\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\bin\Debug\MidtermProject_r04525084.exe.config
+C:\Users\cbel\Desktop\try\0518\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.exe
+C:\Users\cbel\Desktop\try\0518\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.pdb
+C:\Users\cbel\Desktop\try\0518\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\bin\Debug\MidtermProject_r04525084.exe
+C:\Users\cbel\Desktop\try\0518\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\bin\Debug\MidtermProject_r04525084.pdb
+C:\Users\cbel\Desktop\try\0518\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\bin\Debug\RandomVariateGeneratorLibrary.dll
+C:\Users\cbel\Desktop\try\0518\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.csprojResolveAssemblyReference.cache
+C:\Users\cbel\Desktop\try\0518\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.MidtermProject.resources
+C:\Users\cbel\Desktop\try\0518\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.Properties.Resources.resources
+C:\Users\cbel\Desktop\try\0518\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.csproj.GenerateResource.Cache
+C:\Users\arthurwutwks\Desktop\離散事件作業\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\bin\Debug\MidtermProject_r04525084.exe.config
+C:\Users\arthurwutwks\Desktop\離散事件作業\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.exe
+C:\Users\arthurwutwks\Desktop\離散事件作業\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.pdb
+C:\Users\arthurwutwks\Desktop\離散事件作業\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\bin\Debug\MidtermProject_r04525084.exe
+C:\Users\arthurwutwks\Desktop\離散事件作業\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\bin\Debug\MidtermProject_r04525084.pdb
+C:\Users\arthurwutwks\Desktop\離散事件作業\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\bin\Debug\RandomVariateGeneratorLibrary.dll
+C:\Users\arthurwutwks\Desktop\離散事件作業\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.csprojResolveAssemblyReference.cache
+C:\Users\arthurwutwks\Desktop\離散事件作業\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.MidtermProject.resources
+C:\Users\arthurwutwks\Desktop\離散事件作業\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.Properties.Resources.resources
+C:\Users\arthurwutwks\Desktop\離散事件作業\r04525084_midterm project\MidtermProject_r04525084\MidtermProject_r04525084\obj\Debug\MidtermProject_r04525084.csproj.GenerateResource.Cache
