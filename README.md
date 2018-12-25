@@ -1,2 +1,2 @@
 # CounterQueueSystem
-[alt text](image1.jpg)
+[image](image1.jpg)
